@@ -1,5 +1,7 @@
 # City Weather Identifier
 
+**Status: 🛑 Paused — active development on this project is on hold while focusing on school and working on other projects.**
+
 A web app that allows users to find detailed weather information for cities across the globe. Built with **Flask**, **HTML/CSS/JS**, and deployed on **Vercel**.
 
 ---
