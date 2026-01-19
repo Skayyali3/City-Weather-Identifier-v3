@@ -50,6 +50,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 
 .site-footer {
+  background-color: white;
   margin-top: 3rem;
   padding: 1rem 1.5rem;
   display: flex;
