@@ -192,6 +192,10 @@ def index():
                         error = "Failed to retrieve weather data."
     return render_template("index.html", options=weather_options.keys(), table_html=table_html, error=error, name=name)
 
+@app.context_processor
+def inject_year():
+    return {"current_year": datetime.now().year}
+
 @app.route('/robots.txt')
 def robots_txt():
     # This sends the file directly from your root directory

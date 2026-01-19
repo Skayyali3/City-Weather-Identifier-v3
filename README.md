@@ -43,8 +43,8 @@ Follow these steps to run the project locally:
 
 # 1. Clone the repository and enter:
 ```bash
-git clone https://github.com/saifkayyali3/CityWeatherIdentifier-v3.git
-cd CityWeatherIdentifier-v3
+git clone https://github.com/skayyali3/City-Weather-Identifier-v3.git
+cd City-Weather-Identifier-v3
 ```
 # 2. Make a virtual environment
 ```bash
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 # 4. Run
 ```bash
 python main.py
-
+# Open your browser at http://127.0.0.1:5000 to check out the Weather Site
 ```
 ## License
 
