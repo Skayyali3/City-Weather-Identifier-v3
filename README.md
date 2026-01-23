@@ -1,13 +1,13 @@
 # City Weather Identifier
 
-A web app that allows users to find detailed weather information for cities across the globe. Built with **Flask**, **HTML/CSS/JS**, and deployed on **Vercel**.
+A web app that allows users to find detailed weather information for cities across the globe. Built with **Flask**, **HTML/CSS/JS/Bootstrap Styling**, and deployed on **Vercel**.
 
 ---
 
-## ⏳ Project History
+## Project History
 This web app is the final version of a three-part evolution:
-1. **[Jordan Weather Legacy v1](https://github.com/saifkayyali3/JordanWeatherIdentifier-v1)** - The Prototype: First Python GUI using static File I/O.
-2. **[City Weather Identifier v2](https://github.com/saifkayyali3/City-Weather-Identifier-v2)** - Data Viz: Desktop app with live API integration and Seaborn/Matplotlib graphs. 
+1. **[Jordan Weather Legacy v1](https://github.com/Skayyali3/Jordan-Weather-Identifier-v1)** - The Prototype: First Python GUI using static File I/O.
+2. **[City Weather Identifier v2](https://github.com/Skayyali3/City-Weather-Identifier-v2)** - Data Viz: Desktop app with live API integration and Seaborn/Matplotlib graphs. 
 3. **City Weather Identifier v3 (This Repo)** - Full-Stack: Responsive web app with Flask backend and Pandas data processing.
 
 ---
@@ -23,7 +23,7 @@ This web app is the final version of a three-part evolution:
 
 ## Live Demo
 
-Check out the app here: [City Weather Identifier](https://city-weather-identifier.vercel.app/)
+Check out the app here: **[City Weather Identifier](https://city-weather-identifier.vercel.app/)**
 
 ---
 
@@ -37,16 +37,14 @@ Check out the app here: [City Weather Identifier](https://city-weather-identifie
 
 ---
 
-## Getting Started
+## How to Run:
 
-Follow these steps to run the project locally:
-
-# 1. Clone the repository and enter:
+### 1. Clone the repository and enter:
 ```bash
-git clone https://github.com/skayyali3/City-Weather-Identifier-v3.git
+git clone https://github.com/Skayyali3/City-Weather-Identifier-v3.git
 cd City-Weather-Identifier-v3
 ```
-# 2. Make a virtual environment
+### 2. Make a virtual environment
 ```bash
 python -m venv venv
 
@@ -54,19 +52,20 @@ source venv/bin/activate # Linux/macOS
 venv\Scripts\activate # Windows
 ```
 
-# 3. Install the needed requirements
+### 3. Install the needed requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-# 4. Run
+### 4. Run
 ```bash
 python main.py
-# Open your browser at http://127.0.0.1:5000 to check out the Weather Site
+# Open your browser at http://127.0.0.1:5000 to check out the Weather Site Locally for Testing
 ```
+
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License – see the **[LICENSE](LICENSE)** file for details.
 
 ## Author
 **Saif Kayyali**
